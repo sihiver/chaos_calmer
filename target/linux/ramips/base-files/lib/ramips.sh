@@ -361,6 +361,9 @@ ramips_board_detect() {
 	*"TEW-692GR")
 		name="tew-692gr"
 		;;
+	*"TL-MR3020 v3")
+		name="tl-mr3020-v3"
+		;;
 	*"Ralink V11ST-FE")
 		name="v11st-fe"
 		;;
