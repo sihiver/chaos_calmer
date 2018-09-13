@@ -161,6 +161,9 @@ get_status_led() {
 	tew-692gr)
 		status_led="trendnet:green:wps"
 		;;
+	tplink,tl-mr3020-v3)
+		status_led="tp-link:green:wps"
+		;;
 	v11st-fe)
 		status_led="v11st-fe:green:status"
 		;;
